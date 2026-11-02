@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Cascading Calibrachoa & Million Bells",
+    "category": "Hanging Baskets",
+    "season": "Spring & Summer",
+    "light": "Full Sun",
+    "water": "Daily in heat",
+    "desc": "Prolific trailing trumpet blooms with self-cleaning continuous flowering.",
+    "image_path": "assets/flowers/flower_01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Zonal Scarlet & Coral Geraniums",
+    "category": "Patio Containers",
+    "season": "Spring to Fall",
+    "light": "Full Sun",
+    "water": "Moderate",
+    "desc": "Classic bold rounded floral clusters with rich velvety petals and vigorous growth.",
+    "image_path": "assets/flowers/flower_02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Citrus Coral Verbena Clusters",
+    "category": "Perennials & Bedding",
+    "season": "Summer to Frost",
+    "light": "Full Sun",
+    "water": "Moderate",
+    "desc": "Densely clustered florets in vibrant peach and tangerine that thrive in summer warmth.",
+    "image_path": "assets/flowers/flower_03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Velvet Crimson Mandevilla Trumpets",
+    "category": "Patio Containers",
+    "season": "Summer to Fall",
+    "light": "Direct Sun",
+    "water": "Allow 2in dry",
+    "desc": "Exotic deep-red trumpet flowers climbing gracefully along trellises and patio arches.",
+    "image_path": "assets/flowers/flower_04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Golden Tickseed Coreopsis Blooms",
+    "category": "Perennials & Bedding",
+    "season": "Summer to Frost",
+    "light": "Full Sun",
+    "water": "Low to Moderate",
+    "desc": "Sun-drenched yellow florets that provide month after month of hardy cottage garden color.",
+    "image_path": "assets/flowers/flower_05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sunburst Osteospermum African Daisies",
+    "category": "Perennials & Bedding",
+    "season": "Spring to Autumn",
+    "light": "Full Sun",
+    "water": "Moderate",
+    "desc": "Dramatic contrasting dark center discs encircled by crisp luminous daisy petals.",
+    "image_path": "assets/flowers/flower_06.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Electric Magenta Trailing Petunias",
+    "category": "Hanging Baskets",
+    "season": "Spring & Summer",
+    "light": "Full Sun",
+    "water": "Daily in heat",
+    "desc": "Dense cascading blankets of neon-violet petunia blooms trailing over basket edges.",
+    "image_path": "assets/flowers/flower_07.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Coral Bell & Trailing Flurries",
+    "category": "Hanging Baskets",
+    "season": "Spring & Summer",
+    "light": "Full Sun",
+    "water": "Consistent",
+    "desc": "Multi-bloom hanging porch basket exploding with saturated color from top to bottom.",
+    "image_path": "assets/flowers/flower_08.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Trailing Fuchsia & Calibrachoa Combo",
+    "category": "Hanging Baskets",
+    "season": "Spring to Fall",
+    "light": "Morning Sun / Shade",
+    "water": "Regular moisture",
+    "desc": "Pendulous bell-shaped dancing flowers with contrasting flared sepals and petals.",
+    "image_path": "assets/flowers/flower_09.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mixed Summer Bloom Porch Planter",
+    "category": "Patio Containers",
+    "season": "Summer",
+    "light": "Full Sun",
+    "water": "Moderate",
+    "desc": "Curated container bursting with assorted colorful flowering annuals in full bloom.",
+    "image_path": "assets/flowers/flower_10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Lavender Lilac Calibrachoa Stars",
+    "category": "Hanging Baskets",
+    "season": "Spring to Fall",
+    "light": "Full Sun",
+    "water": "Daily in heat",
+    "desc": "Countless miniature petunia-like blooms in soothing lavender with yellow throats.",
+    "image_path": "assets/flowers/flower_11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sunshine Orange & Gold Bloomers",
+    "category": "Perennials & Bedding",
+    "season": "Summer to Frost",
+    "light": "Full Sun",
+    "water": "Moderate",
+    "desc": "Warm sunset hues radiating cheerful energy across garden beds and walkway borders.",
+    "image_path": "assets/flowers/flower_12.jpg"
+  }
+]
